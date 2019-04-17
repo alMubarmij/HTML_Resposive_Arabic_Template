@@ -4,5 +4,8 @@ this is a resposive arabic template. it has a resposive nav bar with a sticky fo
 
 You can use it as a starting point to make a RTL website 
 
-الكود عبارة عن نموذج يمكنك استخدامه مباشرة لبناء مقع الكتروني متوافق مع كل انواع الأجهزة 
+الكود عبارة عن نموذج يمكنك استخدامه مباشرة لبناء موقع الكتروني متوافق مع كل انواع الأجهزة 
+
+يدعم اللغة العربية 
+
 
